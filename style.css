@@ -79,10 +79,14 @@ h1 {
 /* Testimonial Section */
 
 #testimonials{
-  padding: 7% 15%;
+  
   text-align: center;
   background-color: #E4676A;
   color: #fff;
+}
+
+.carousel-item{
+  padding: 7% 15%;
 }
 
 #testimonials h2{
