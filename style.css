@@ -133,3 +133,7 @@ h1 {
 .card:hover{
   box-shadow: 25px 25px 50px rgb(223, 196, 196);
 }
+
+#pricing h2{
+  font-family: "Montserrat";
+}
