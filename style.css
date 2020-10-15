@@ -5,7 +5,7 @@
 }
 h1 {
   font-family: "Montserrat", sans-serif;
-  font-size: 3.5rem;
+  font-size: 3rem;
   line-height: 1.5;
   
 }
@@ -141,4 +141,42 @@ h1 {
 
 #pricing h2{
   font-family: "Montserrat";
+}
+
+@media (max-width: 991px){
+  #title{
+    text-align: center;
+  } 
+
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* Call to Action */ 
+
+#cta{
+  background-color: #F02B61;
+  text-align: center;
+  padding:7% 10%;
+}
+
+#cta h3{
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+/* Footer Section  */
+
+#footer{
+  background-color: #E7E3E1;
+  text-align: center;
+  padding: 7% 15%;
+} 
+
+.social-icon{
+  margin: 20px 10px;
 }
