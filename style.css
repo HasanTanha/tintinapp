@@ -1,6 +1,7 @@
 
 body{
-  font-family: "Montserrat";
+  
+  text-align: center;
 }
 
 h1 {
@@ -43,6 +44,7 @@ h1 {
 #title {
   background-color: #F02B61;
   color: #fff;
+  text-align: left;
 }
 
 .title-image{
@@ -66,7 +68,6 @@ h1 {
 }
 
 .features-box{
-  text-align: center;
   padding: 3%;
 }
  
@@ -90,8 +91,6 @@ h1 {
 /* Testimonial Section */
 
 #testimonials{
-  
-  text-align: center;
   background-color: #E4676A;
   color: #fff;
   
@@ -113,9 +112,10 @@ h1 {
   margin: 20px 0 20px 20px;
 }
 
+/* Press Section  */
+
 #press{
   background-color: #E4676A;
-  text-align: center;
   padding-bottom: 3%;
 }
 
@@ -133,8 +133,6 @@ h1 {
 
 #pricing{
   padding: 100px;
-  text-align: center;
-  
 }
 
 .pricing-column{
@@ -165,7 +163,6 @@ h1 {
 
 #cta{
   background-color: #F02B61;
-  text-align: center;
   padding:7% 10%;
 }
 
@@ -180,7 +177,6 @@ h1 {
 
 #footer{
   background-color: #E7E3E1;
-  text-align: center;
   padding: 7% 15%;
 } 
 
