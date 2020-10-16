@@ -1,8 +1,8 @@
 
-#title {
-  background-color: #F02B61;
-  color: #fff;
+body{
+  font-family: "Montserrat";
 }
+
 h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 3rem;
@@ -38,7 +38,12 @@ h1 {
   margin: 5% 3% 7% 0%;
 }
 
-/* Title Image */
+/* Title Section */
+
+#title {
+  background-color: #F02B61;
+  color: #fff;
+}
 
 .title-image{
   width: 60%;
@@ -89,6 +94,7 @@ h1 {
   text-align: center;
   background-color: #E4676A;
   color: #fff;
+  
 }
 
 .carousel-item{
@@ -133,11 +139,11 @@ h1 {
 
 .pricing-column{
   padding: 3% 2%;
-  
 
 }
 .card:hover{
   box-shadow: 25px 25px 50px rgb(223, 196, 196);
+
 }
 
 #pricing h2{
@@ -148,7 +154,7 @@ h1 {
   #title{
     text-align: center;
   } 
-
+ 
   .title-image{
     position: static;
     transform: rotate(0);
